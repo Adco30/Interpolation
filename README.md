@@ -1,6 +1,6 @@
 # Curve Interpolation
 
-This application provides an interactive visualization of mathematical curve interpolation. Users can view, manipulate, and analyze curves using different interpolation algorithms, calculate the area under specified regions, and interact with a dynamic coordinate system.
+This application provides an interactive visualization of mathematical curve interpolation using the Accelerate framework. Users can view, manipulate, and analyze curves using different interpolation algorithms, calculate the area under specified regions, and interact with a dynamic coordinate system.
 
 
 
