@@ -3,6 +3,10 @@
 This application provides interactive visualization of mathematical curve interpolation techniques. Users can view, manipulate, and analyze curves using different interpolation algorithms, calculate the area under specified regions, and interact with a dynamic coordinate system.
 
 
+
+https://github.com/user-attachments/assets/6ae47909-54a8-48a1-a46b-5267b67b6ca3
+
+
 ## Core Functionality
 
 - Curve interpolation with linear and quadratic methods
